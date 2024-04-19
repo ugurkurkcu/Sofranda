@@ -6,5 +6,4 @@
 
 <p>HTML-CSS-JS-REACT-REDUX-TAILWIND-AXIOS kullanıldı. </br> Responsive yapı kullanıldı</p>
 
-![](/gif/screen-1.gif)
-# Sofranda
+![](/public/gif/screen-1.gif)
